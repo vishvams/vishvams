@@ -61,7 +61,7 @@ def bann_text():
       ██    ██  ██ ██  ██ ██ ▒ ██ ██  ██
       ██    █████▒ ▒████▒ ██   ██ █████▒
       ▒▒    ▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒
-                                         -cybervishvam"""
+                                         -cybervishu"""
     if ASCII_MODE:
         logo = ""
     version = "Version: "+__VERSION__
